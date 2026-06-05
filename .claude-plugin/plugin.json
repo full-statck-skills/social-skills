@@ -1,0 +1,16 @@
+{
+  "name": "social-skills",
+  "version": "1.0.0",
+  "description": "Social & communication skills",
+  "author": {
+    "name": "PartMeAI",
+    "email": "partmeai@gmail.com"
+  },
+  "homepage": "https://github.com/full-statck-skills/social-skills",
+  "repository": "https://github.com/full-statck-skills/social-skills",
+  "source": "./",
+  "skills": [
+    "./skills/internal-comms",
+    "./skills/slack-gif-creator"
+  ]
+}
