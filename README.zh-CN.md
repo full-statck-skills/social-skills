@@ -4,7 +4,7 @@
 
 **社交与沟通技能 — Slack GIF、内部沟通**
 
-[![GitHub](https://img.shields.io/badge/github-full--statck--skills%2Fsocial--skills-green.svg)](https://github.com/full-statck-skills/social-skills)
+[![GitHub](https://img.shields.io/badge/github-full--stack--skills%2Fsocial--skills-green.svg)](https://github.com/full-stack-skills/social-skills)
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](LICENSE)
 [![Agent Skills](https://img.shields.io/badge/Agent%20Skills-Compatible-purple.svg)](https://agentskills.io)
 
@@ -25,10 +25,10 @@
 ## 📦 安装
 
 ```bash
-npx skills add full-statck-skills/social-skills
+npx skills add full-stack-skills/social-skills
 ```
 
-或安装特定技能：`npx skills add full-statck-skills/social-skills --skill <skill-name>`
+或安装特定技能：`npx skills add full-stack-skills/social-skills --skill <skill-name>`
 
 ## 🎯 技能 (2)
 
@@ -46,13 +46,13 @@ npx skills add full-statck-skills/social-skills
 **方式一：npx skills CLI（推荐）**
 
 ```bash
-npx skills add full-statck-skills/social-skills
+npx skills add full-stack-skills/social-skills
 ```
 
 **方式二：手动安装**
 
 ```bash
-git clone https://github.com/full-statck-skills/social-skills.git
+git clone https://github.com/full-stack-skills/social-skills.git
 cp -r social-skills/skills/* .claude/skills/
 ```
 
@@ -63,7 +63,7 @@ cp -r social-skills/skills/* .claude/skills/
 | 资源 | 链接 |
 |------|------|
 | **Full Stack Skills** | [github.com/partme-ai/full-stack-skills](https://github.com/partme-ai/full-stack-skills) |
-| **所有技能组** | [github.com/full-statck-skills](https://github.com/full-statck-skills) |
+| **所有技能组** | [github.com/full-stack-skills](https://github.com/full-stack-skills) |
 | **Agent Skills 规范** | [agentskills.io](https://agentskills.io) |
 | **Skills CLI** | [github.com/vercel-labs/skills](https://github.com/vercel-labs/skills) |
 
