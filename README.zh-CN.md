@@ -2,7 +2,7 @@
 
 # social-skills
 
-**社交与沟通技能 — Slack GIF、内部沟通**
+**社交与沟通技能 — Slack GIF、内部沟通、公开 X 数据研究**
 
 [![GitHub](https://img.shields.io/badge/github-full--stack--skills%2Fsocial--skills-green.svg)](https://github.com/full-stack-skills/social-skills)
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](LICENSE)
@@ -20,7 +20,7 @@
 
 **Social Skills** 是面向 AI 编码智能体的精选技能集合，属于 [Full Stack Skills](https://github.com/partme-ai/full-stack-skills) 生态，由 [PartMe.AI](https://github.com/partme-ai) 维护。
 
-本包包含 **2 个技能**。每个技能是一个独立的 `SKILL.md` 文件，AI 智能体按需加载。
+本包包含 **3 个技能**。每个技能是一个独立的 `SKILL.md` 文件，AI 智能体按需加载。
 
 ## 📦 安装
 
@@ -30,12 +30,13 @@ npx skills add full-stack-skills/social-skills
 
 或安装特定技能：`npx skills add full-stack-skills/social-skills --skill <skill-name>`
 
-## 🎯 技能 (2)
+## 🎯 技能 (3)
 
 | 技能 | 描述 |
 |------|------|
 | `internal-comms` | 内部沟通最佳实践 |
 | `slack-gif-creator` | 创建针对 Slack 优化的动画 GIF 的知识和工具 |
+| `xquik-social-research` | 通过 Xquik 搜索推文、查看对话串并研究公开 X 数据 |
 
 ## 🤖 支持的智能体
 

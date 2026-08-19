@@ -2,7 +2,7 @@
 
 # social-skills
 
-**Social & communication skills — Slack GIFs, internal comms**
+**Social & communication skills — Slack GIFs, internal comms, public X research**
 
 [![GitHub](https://img.shields.io/badge/github-full--stack--skills%2Fsocial--skills-green.svg)](https://github.com/full-stack-skills/social-skills)
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](LICENSE)
@@ -20,7 +20,7 @@ English | [简体中文](./README.zh-CN.md)
 
 **Social Skills** is a curated collection of Agent Skills for AI coding agents, part of the [Full Stack Skills](https://github.com/partme-ai/full-stack-skills) ecosystem maintained by [PartMe.AI](https://github.com/partme-ai).
 
-This package includes **2 skills**. Each skill is a self-contained `SKILL.md` file that AI agents load on-demand.
+This package includes **3 skills**. Each skill is a self-contained `SKILL.md` file that AI agents load on-demand.
 
 ## 📦 Install
 
@@ -30,12 +30,13 @@ npx skills add full-stack-skills/social-skills
 
 Or install specific skills: `npx skills add full-stack-skills/social-skills --skill <skill-name>`
 
-## 🎯 Skills (2)
+## 🎯 Skills (3)
 
 | Skill | Description |
 |-------|-------------|
 | `internal-comms` | Internal communications best practices |
 | `slack-gif-creator` | Knowledge and utilities for creating animated GIFs optimized for Slack |
+| `xquik-social-research` | Search tweets, inspect threads, and research public X data through Xquik |
 
 ## 🤖 Supported Agents
 
