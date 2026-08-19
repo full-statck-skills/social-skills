@@ -1,7 +1,7 @@
 {
   "name": "social-skills",
-  "version": "1.0.0",
-  "description": "Social & communication skills",
+  "version": "1.1.0",
+  "description": "Social, communication, and public X research skills",
   "author": {
     "name": "PartMe.AI",
     "email": "partmeai@gmail.com"
@@ -11,6 +11,7 @@
   "source": "./",
   "skills": [
     "./skills/internal-comms",
-    "./skills/slack-gif-creator"
+    "./skills/slack-gif-creator",
+    "./skills/xquik-social-research"
   ]
 }
